@@ -1,0 +1,27 @@
+.input:focus {
+  /*border: 1px solid #bc9999;*/
+}
+
+.input {
+  border: 1px solid #775a5a;
+}
+
+.inputWrapper {
+  /*border: 1px solid #0059b3;*/
+}
+
+.superInput {
+  /*border: 1px solid #00cc22;*/
+}
+
+.errorInput {
+  /*border: 1px solid red;*/
+}
+
+.errorInput:focus {
+  /*border: 1px solid red;*/
+}
+
+.error {
+  border: 1px solid red;
+}
